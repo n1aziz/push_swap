@@ -12,8 +12,6 @@
 
 #include "push_swap.h"
 
-#include "push_swap.h"
-
 void	rra(t_stack *stack)
 {
 	t_node	*prev;
